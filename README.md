@@ -8,7 +8,7 @@
 class SoftwareDeveloper:
     def __init__(self):
         self.name = "Radomir"
-        self.age = 18
+        self.age = 19
         self.location = "Russia"
         self.passion = "Game Development & AI"
         

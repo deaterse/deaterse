@@ -10,15 +10,15 @@ class SoftwareDeveloper:
         self.name = "Radomir"
         self.age = 19
         self.location = "Russia"
-        self.passion = "Game Development & AI"
+        self.passion = "Game Development & Web3"
         
     @property
     def skills(self):
         return {
-            '🎮 Game Dev': ['Unity', 'C#', 'Blender', 'Shader Graph'],
+            '🎮 Game Dev': ['Unity', 'C#', 'Blender', 'Aseprite'],
             '🌐 Web Dev': ['React', 'Bootstrap', 'Flask', 'Python'],
             '🗣️ Languages': ['Russian (Native)', 'English (B2)', 'Japanese (N5)'],
-            '🚀 Currently Learning': ['Advanced AI', 'Multiplayer', 'DevOps']
+            '🚀 Currently Learning': ['Multiplayer', 'Procedural Generation']
         }
     
     def say_hi(self):

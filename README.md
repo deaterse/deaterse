@@ -10,7 +10,7 @@ class SoftwareDeveloper:
     def skills(self):
         return {
             'Programming Languages': ['C#', 'Python', 'JS'],
-            'Instruments': ['Unity', 'Aseprite', 'Github', 'Figma']
+            'Instruments': ['Unity', 'Aseprite', 'Github', 'Figma', 'Photoshop']
             'Languages': ['Russian (Native)', 'English (B2)', 'Japanese (N5)'],
         }
 

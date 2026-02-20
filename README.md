@@ -1,5 +1,5 @@
 ```python
-class SoftwareDeveloper:
+class GameDeveloper:
     def __init__(self):
         self.name = "Radomir"
         self.age = 19
@@ -14,4 +14,4 @@ class SoftwareDeveloper:
             'Languages': ['Russian (Native)', 'English (B2)', 'Japanese (N5)'],
         }
 
-me = SoftwareDeveloper()
+me = GameDeveloper()

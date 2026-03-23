@@ -5,6 +5,7 @@ class GameDeveloper:
         self.age = 19
         self.location = "Russia"
         self.passion = "Game Dev"
+        self.work = "Coddy School Teacher (2026)"
         
     @property
     def skills(self):

@@ -10,7 +10,7 @@ class GameDeveloper:
     @property
     def skills(self):
         return {
-            'Programming Languages': ['C#', 'Python', 'JS'],
+            'Programming Languages': ['C#', 'Python', 'JS', 'Java'],
             'Instruments': ['Unity', 'Aseprite', 'Github', 'Figma', 'Photoshop']
             'Languages': ['Russian (Native)', 'English (B2)', 'Japanese (N5)'],
         }
